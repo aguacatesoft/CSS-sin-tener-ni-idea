@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+body {
+  background-color:lightgrey;
+  color: #222222;
+  text-align: center;
+}
+
+h1 { 
+  color: palevioletred; 
+  font-family: Great Vibes, cursive; 
+  font-size: 165px; 
+  line-height: 160px; 
+  font-weight: normal; 
+  margin-bottom: 0px; 
+  margin-top: 40px; 
+  text-shadow: 0 1px 1px #ffffff;
+}
+
+h2 {
+  background-color: gainsboro;
+  color: cadetblue;
+  font-size: 40px;
+  font-weight: normal;
+}
+
+p { 
+  color: #7a7c7f; 
+  font-size: 29px; 
+  line-height: 45px; 
+  text-shadow: 0 1px 1px #ffffff; 
+  padding-top: 20px;
+  width: 500px;
+  margin: auto;
+}
+
+img {
+  filter: grayscale(0);
+  border: 1px solid blanchedalmond;
+  width: 500px;
+}
+
+img:hover {
+  filter: grayscale(100%);
+}
+
+
+
